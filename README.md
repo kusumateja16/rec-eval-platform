@@ -87,7 +87,11 @@ Data: with no files present, a synthetic genre-driven dataset is generated. For 
 
 ## Results
 
-> Add your own table here after running on MovieLens, and add a screenshot of the UI at `docs/screenshot.png`. Report numbers you actually measured, and note the dataset and split.
+Results below use the built-in synthetic dataset (genre-driven ratings). Swap in MovieLens to report real-world numbers.
+
+![Model comparison results](docs/results.png)
+
+![Top-K recommendations for a user](docs/recommendations.png)
 
 ## Limitations and next steps
 
